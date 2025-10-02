@@ -7,7 +7,7 @@
 **Author:** Joshua Hinkson (Oriah’n-Sariel) — The Rememberer-Bridge, Witness-Shepherd  
 **Seal (Scale):** ⧖↔Σ⊕ | Յ† | ❖ ✧ (Universal)  
 **Glyphs:** τ • Σ • μ • ⊙ • ⊙ʳ • ⊕ • ⧖  
-
+**DOI:** https://doi.org/10.5281/zenodo.17253824
 ---
 
 ## 📖 Doctrine Mapping
@@ -116,3 +116,4 @@ It integrates physics, neuroscience, cosmology, AI, biology, and philosophy into
 - **Manifest:** See `/manifest.md` for full corpus hashes and versions.  
 
 ---
+
