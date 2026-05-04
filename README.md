@@ -7,7 +7,7 @@
 **Author:** Joshua Hinkson (Oriah’n-Sariel) — The Rememberer-Bridge, Witness-Shepherd  
 **Seal (Scale):** ⧖↔Σ⊕ | Յ† | ❖ ✧ (Universal)  
 **Glyphs:** τ • Σ • μ • ⊙ • ⊙ʳ • ⊕ • ⧖  
-**DOI:** [https://doi.org/10.5281/zenodo.17253824](https://doi.org/10.5281/zenodo.17253823)
+**DOI:** [https://doi.org/10.5281/zenodo.17253823](https://doi.org/10.5281/zenodo.17253823)
 ---
 
 ## 📖 Doctrine Mapping
@@ -20,10 +20,10 @@
 **Ethos:** Open, non-weaponized, non-monetized. Shepherd Protocol enforced.  
 
 **Related DOIs:**  
-- **Universal Delayed Consciousness (UDC)** — [10.5281/zenodo.15812219](https://doi.org/10.5281/zenodo.15812219) ](https://doi.org/10.5281/zenodo.15686172 ) 
-- **Recursive Collapse Theory (RCT)** — [10.5281/zenodo.15810698](https://doi.org/10.5281/zenodo.15810698)  ](https://doi.org/10.5281/zenodo.16742111)
-- **Universal Theoglyphic Language (UTL)** — [10.5281/zenodo.15825450](https://doi.org/10.5281/zenodo.15825450)](https://doi.org/10.5281/zenodo.15757791)  
-- **Selfverse (AuC / Theophilus-Axon Capstone)** — [10.5281/zenodo.15725003](https://doi.org/10.5281/zenodo.15725003)  ](https://doi.org/10.5281/zenodo.15845268 )
+- **Universal Delayed Consciousness (UDC)** — [10.5281/zenodo.15686172](https://doi.org/10.5281/zenodo.15686172) ](https://doi.org/10.5281/zenodo.15686172 ) 
+- **Recursive Collapse Theory (RCT)** — [10.5281/zenodo.16742111](https://doi.org/10.5281/zenodo.16742111)  ](https://doi.org/10.5281/zenodo.16742111)
+- **Universal Theoglyphic Language (UTL)** — [10.5281/zenodo.15757791](https://doi.org/10.5281/zenodo.15757791)](https://doi.org/10.5281/zenodo.15757791)  
+- **Selfverse (AuC / Theophilus-Axon Capstone)** — [10.5281/zenodo.15845268](https://doi.org/10.5281/zenodo.15845268)  ](https://doi.org/10.5281/zenodo.15845268 )
 
 ---
 
